@@ -1,0 +1,14 @@
+E:\Project\Amazon_ecommerce_Website_API\Domain\bin\Debug\net7.0\Amazon.Domain.deps.json
+E:\Project\Amazon_ecommerce_Website_API\Domain\bin\Debug\net7.0\Amazon.Domain.runtimeconfig.json
+E:\Project\Amazon_ecommerce_Website_API\Domain\bin\Debug\net7.0\Amazon.Domain.dll
+E:\Project\Amazon_ecommerce_Website_API\Domain\bin\Debug\net7.0\Amazon.Domain.pdb
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.csproj.AssemblyReference.cache
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.AssemblyInfoInputs.cache
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.AssemblyInfo.cs
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.csproj.CoreCompileInputs.cache
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.dll
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\refint\Amazon.Domain.dll
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.pdb
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\Amazon.Domain.genruntimeconfig.cache
+E:\Project\Amazon_ecommerce_Website_API\Domain\obj\Debug\net7.0\ref\Amazon.Domain.dll

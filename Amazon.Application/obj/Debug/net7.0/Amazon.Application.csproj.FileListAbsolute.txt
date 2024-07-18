@@ -1,0 +1,17 @@
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.Application.deps.json
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.Application.dll
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.Application.pdb
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.Domain.dll
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.DTO.dll
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.DTO.pdb
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\bin\Debug\net7.0\Amazon.Domain.pdb
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.csproj.AssemblyReference.cache
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.AssemblyInfoInputs.cache
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.AssemblyInfo.cs
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.csproj.CoreCompileInputs.cache
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.A.9DAB2C0E.Up2Date
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.dll
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\refint\Amazon.Application.dll
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\Amazon.Application.pdb
+E:\Project\Amazon_ecommerce_Website_API\Amazon.Application\obj\Debug\net7.0\ref\Amazon.Application.dll
